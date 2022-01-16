@@ -1,0 +1,23 @@
+[
+    {
+        "model": "users.category",
+        "pk": 1,
+        "fields": {
+            "name": "SUPER"
+        }
+    },
+    {
+        "model": "users.category",
+        "pk": 2,
+        "fields": {
+            "name": "ULTRA"
+        }
+    },
+    {
+        "model": "users.category",
+        "pk": 3,
+        "fields": {
+            "name": "EPIC"
+        }
+    }
+]
